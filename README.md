@@ -1,4 +1,4 @@
-# CKFont : Hangul_Font_Generation_Model
+# CKFont1 : Hangul_Font_Generation_Model
 ## 한글 조합성에 기반한 최소 글자를 사용하는 한글 폰트 생성 모델 (2021. 11.)
 ## Few-Shot Korean Font Generation based on Hangul Composability
 
